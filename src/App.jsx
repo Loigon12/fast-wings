@@ -270,6 +270,24 @@ function WingShopApp() {
           )}
         </main>
 
+        {/* --- Footer de Créditos --- */}
+<footer className="py-12 pb-24 text-center border-t border-zinc-900 mt-10">
+  <p className="text-zinc-500 text-sm font-medium">
+    Hecho con 🔥 por 
+    <a 
+      href="https://tufolio.com" // <-- Reemplaza con tu link real
+      target="_blank" 
+      rel="noopener noreferrer"
+      className="ml-1 text-zinc-300 font-black hover:text-orange-500 transition-colors border-b border-zinc-800 hover:border-orange-500"
+    >
+      Sebas Londoño
+    </a>
+  </p>
+  <p className="text-[10px] text-zinc-600 uppercase tracking-[0.3em] mt-2">
+    © 2024 WING BOSS - Digital Experience
+  </p>
+</footer>
+
         {/* --- Navbar Móvil/PC --- */}
         <nav className="fixed bottom-6 left-1/2 -translate-x-1/2 w-[90%] md:max-w-md bg-zinc-900/80 backdrop-blur-xl border border-zinc-800 rounded-full p-2 shadow-2xl flex justify-around z-30">
           <button 
