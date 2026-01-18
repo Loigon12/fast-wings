@@ -275,7 +275,7 @@ function WingShopApp() {
   <p className="text-zinc-500 text-sm font-medium">
     Hecho con 🔥 por 
     <a 
-      href="https://tufolio.com" // <-- Reemplaza con tu link real
+      href="https://portafolio-sebaslondono.vercel.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnMvHR0keNR7vtCdzHsbFoysaFBRMeVjNkJP1PjYoOORmLkC5hgYnx8r554Lg_aem_G9M6B612wVV4GX84uWnTeQ" 
       target="_blank" 
       rel="noopener noreferrer"
       className="ml-1 text-zinc-300 font-black hover:text-orange-500 transition-colors border-b border-zinc-800 hover:border-orange-500"
@@ -284,7 +284,7 @@ function WingShopApp() {
     </a>
   </p>
   <p className="text-[10px] text-zinc-600 uppercase tracking-[0.3em] mt-2">
-    © 2024 WING BOSS - Digital Experience
+    © 2026 WING BOSS - Digital Experience
   </p>
 </footer>
 
