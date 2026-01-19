@@ -3,7 +3,7 @@ import { ShoppingCart, Plus, Minus, Utensils, Flame, ChevronDown, IceCream, Beer
 import SplashScreen from './components/SplashScreen'; 
 import SuccessModal from './components/SuccessModal';
 import ImageModal from './components/ImageModal';
-import imgAlitasFuego from './assets/images.jpg';
+import imgAlitasFuego from './assets/fuego.jpg';
 import imgAlitasBBQ from './assets/Alitas.webp';
 import imgAlitasx24 from './assets/x24.jpg';
 
